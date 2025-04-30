@@ -1,2 +1,2 @@
-# Quant-Project
+# Quantitative Stuff
 A simple Market Simulation  
