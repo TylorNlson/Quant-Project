@@ -1,2 +1,2 @@
-# Quantitative Stuff
+# Power Trading
 A simple Market Simulation  
